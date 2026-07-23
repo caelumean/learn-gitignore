@@ -1,1 +1,1 @@
-# learn-gitignore
+README 생성
